@@ -6,6 +6,8 @@ Proyecto Final para el curso de ReactJS de CoderHouse. Una aplicación web de e-
 
 Esta aplicación web permite a los usuarios navegar por un catálogo de productos de decoración y muebles, filtrar por categorías, ver detalles de productos y realizar compras simuladas. Incluye carrito de compras con gestión de estados y persistencia de datos.
 
+- Proyecto desplegado en Vercel: [E-commerce Morua](https://e-commerce-morua.vercel.app/)
+
 ## Tecnologías Utilizadas
 
 - React 19
